@@ -1,0 +1,70 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"POT-Creation-Date: 2018-04-06 15:00-0300\n"
+"PO-Revision-Date: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../../../../xampp/htdocs/wordpress/wp-content/plugins/woocommerce-smarthint\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: SmartHint_Admin.php\n"
+
+#: SmartHint_Admin.php:29
+msgid "SmartHint for WooCommerce"
+msgstr "SmartHint para WooCommerce"
+
+#: SmartHint_Admin.php:89
+msgid "One or more parameters missing..."
+msgstr "Um ou mais parâmetros estão incompletos..."
+
+#: SmartHint_Admin.php:96
+msgid "Your account has been created."
+msgstr "Sua conta na SmartHint foi criada com sucesso."
+
+#: SmartHint_Admin.php:109
+msgid "Your account has been modified."
+msgstr "Sua conta na SmartHint foi modificada"
+
+#: SmartHint_Admin.php:119
+msgid "Your request has been saved."
+msgstr "Atualizado com sucesso."
+
+#: SmartHint_Admin.php:132
+msgid "Account"
+msgstr "Conta"
+
+#: SmartHint_Admin.php:136
+msgid "Store Name"
+msgstr "Nome da Loja"
+
+#: SmartHint_Admin.php:146
+msgid "Partner Code"
+msgstr "Código do Parceiro"
+
+#: SmartHint_Admin.php:148
+msgid "If you have a partner code, type above (not required)"
+msgstr "Se você tiver um código de parceiro, insira acima (campo não obrigatório)"
+
+#: SmartHint_Admin.php:157
+msgid "Process Products"
+msgstr "Processar Produtos"
+
+#: SmartHint_Admin.php:158
+msgid "Save"
+msgstr "Salvar"
+
+#: SmartHint_Admin.php:159
+msgid "After click on <b>'Save</b> SmartHint will process all products"
+msgstr "Após clicar em <b>'Salvar</b> nós iremos processar todos os produtos"
